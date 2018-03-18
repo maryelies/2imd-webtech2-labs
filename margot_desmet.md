@@ -30,3 +30,12 @@
 
 ### Github
 [Link to repository](https://github.com/maryelies/portfolio/tree/master/notesapp)
+
+
+## WEEK 4 - NodeJS
+
+### Heroku
+[Link to app](https://kweeni-imd.herokuapp.com/)
+
+### Github
+[Link to repository](https://github.com/maryelies/kweeni)
