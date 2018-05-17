@@ -48,3 +48,12 @@
 
 ### Github
 [Link to repository](https://github.com/maryelies/Lab5Websockets)
+
+
+## EXAMEN - Kweeni
+
+### Heroku
+[Link to app](https://kweeniapp.herokuapp.com/)
+
+### Github
+[Link to repository](https://github.com/Jderoeck/kweeniApp)
